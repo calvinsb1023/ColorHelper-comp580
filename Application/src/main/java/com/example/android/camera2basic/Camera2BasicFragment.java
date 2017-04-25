@@ -26,6 +26,9 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.pm.PackageManager;
 import android.content.res.Configuration;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
 import android.graphics.ImageFormat;
 import android.graphics.Matrix;
 import android.graphics.Point;
@@ -57,6 +60,7 @@ import android.view.Surface;
 import android.view.TextureView;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 import java.io.File;
@@ -127,6 +131,12 @@ public class Camera2BasicFragment extends Fragment
      * Max preview height that is guaranteed by Camera2 API
      */
     private static final int MAX_PREVIEW_HEIGHT = 1080;
+
+	/**
+	 * Dealing with image view
+     */
+
+    private ImageView imageView;
 
     /**
      * {@link TextureView.SurfaceTextureListener} handles several lifecycle events on a
@@ -243,10 +253,64 @@ public class Camera2BasicFragment extends Fragment
 
         @Override
         public void onImageAvailable(ImageReader reader) {
-            mBackgroundHandler.post(new ImageSaver(reader.acquireNextImage(), mFile));
-        }
 
+            final Image mImage = reader.acquireNextImage();
+
+            getActivity().runOnUiThread(new Runnable() {
+
+                @Override
+                public void run() {
+
+                    ByteBuffer buffer = mImage.getPlanes()[0].getBuffer();
+                    byte[] bytes = new byte[buffer.capacity()];
+                    buffer.get(bytes);
+                    final Bitmap bitmapImage = BitmapFactory.decodeByteArray(bytes, 0, bytes.length, null);
+
+                    //imageView.setImageBitmap(bitmapImage);
+                    imageView.setImageBitmap(scaleCenterCrop(bitmapImage, imageView.getHeight(), imageView.getWidth()));
+                }
+            });
+        }
     };
+
+    public Bitmap scaleCenterCrop(Bitmap source, int newHeight, int newWidth) {
+        int sourceWidth = source.getWidth();
+        //int sourceHeight = source.getHeight();
+
+        // Compute the scaling factors to fit the new height and width, respectively.
+        // To cover the final image, the final scaling will be the bigger
+        // of these two.
+        //float xScale = (float) newWidth / sourceWidth;
+        //float xScale = 0;
+        //float yScale = (float) newHeight / sourceHeight;
+        //float scale = Math.max(xScale, yScale);
+
+        float adjHeight = (float) newHeight / newWidth * sourceWidth;
+
+        // Now get the size of the source bitmap when scaled
+        // float scaledWidth = scale * sourceWidth;
+        // float scaledHeight = scale * sourceHeight;
+
+        // Let's find out the upper left coordinates if the scaled bitmap
+        // should be centered in the new size give by the parameters
+        //float left = (newWidth - scaledWidth) / 2;
+        //float top = (newHeight - scaledHeight) / 2;
+
+        // The target rectangle for the new, scaled version of the source bitmap will now
+        // be
+        // RectF targetRect = new RectF(left, top, left + scaledWidth, top + scaledHeight);
+
+        // Finally, we create a new bitmap of the specified size and draw our new,
+        // scaled bitmap onto it.
+        //Bitmap dest = Bitmap.createBitmap(newWidth, newHeight, source.getConfig());
+        //Bitmap dest = source;
+        //Bitmap dest = Bitmap.createBitmap(source, 0, 0, newWidth, newHeight);
+        return Bitmap.createBitmap(source, 0, 0, sourceWidth, Math.round(adjHeight));
+        //Canvas canvas = new Canvas(dest);
+        //canvas.drawBitmap(source, null, targetRect, null);
+
+        //return dest;
+    }
 
     /**
      * {@link CaptureRequest.Builder} for the camera preview
@@ -429,6 +493,8 @@ public class Camera2BasicFragment extends Fragment
         view.findViewById(R.id.picture).setOnClickListener(this);
         view.findViewById(R.id.info).setOnClickListener(this);
         mTextureView = (AutoFitTextureView) view.findViewById(R.id.texture);
+        imageView = (ImageView) view.findViewById(R.id.image);
+        // TODO: second texture view
     }
 
     @Override
@@ -562,7 +628,7 @@ public class Camera2BasicFragment extends Fragment
                     maxPreviewHeight = MAX_PREVIEW_HEIGHT;
                 }
 
-                // Danger, W.R.! Attempting to use too large a preview size could  exceed the camera
+                // Danger, W.R.! Attempting to use too large a preview size could exceed the camera
                 // bus' bandwidth limitation, resulting in gorgeous previews but the storage of
                 // garbage capture data.
                 mPreviewSize = chooseOptimalSize(map.getOutputSizes(SurfaceTexture.class),
@@ -675,6 +741,7 @@ public class Camera2BasicFragment extends Fragment
     private void createCameraPreviewSession() {
         try {
             SurfaceTexture texture = mTextureView.getSurfaceTexture();
+            // TODO: get second texture
             assert texture != null;
 
             // We configure the size of default buffer to be the size of camera preview we want.

@@ -1,0 +1,7 @@
+#Tue Apr 25 12:29:27 EDT 2017
+base.0=/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1b35225c6c8b7527c34ceba0ef550b76b7518e5a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a7c86265e92ac0c8752ea5eca5f029b6c006383/classes.dex
+base.1=/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a7c86265e92ac0c8752ea5eca5f029b6c006383
+file.0=/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1b35225c6c8b7527c34ceba0ef550b76b7518e5a/classes.dex

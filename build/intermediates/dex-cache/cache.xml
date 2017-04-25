@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_79b66ce8fc480824c78b23d126b07b2afbcce367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c869993776a01773a564b410c828d016e1ecb72">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a7c86265e92ac0c8752ea5eca5f029b6c006383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_c1ee1845fff1673d761be6e28e458e062d5d69a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_efba5937427d2966e9f3cd4e1316389b91ba4c9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fbf099cb161ad0aad22c9f26876e599c47f22558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="722b0b1a1562738d2ee1b79f2ef575c3acd021e9">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1b35225c6c8b7527c34ceba0ef550b76b7518e5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_011e9aec9438e08bc7a7e6fc06fa13bad863d8c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_46823108cbc31d5b09cd58f14259e03ad012683f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_f02bfb013dbbf87fd2fe0a735d5ec2aaf3c8b50b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8bfbcae34c694876ef8dd843b988e82dbbe4f9ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_cfe91c9828f7bc47efa22649490a7bb4afe50f50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_f65c84ddd1fb2cd30f19b55e99579ba952e22853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_444be5db36f24c1b46c6eede4b0063087d806ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_d382a4397cc9b4a6e8943ffcbb3db0da8f8cf166/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_ee64e9a93b254141a286ead5af4a1cb4830540fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_63c21752b0b8444ae0aca66ba48fa918570539af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_1a43af6f4da54550aef14d1db3e9270ace4eb670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2d135b5c7f5dfd074556d7646e0bb11e0e505407/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_919a992536be056ee51202acf73dcf781d72b357/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_805f52c27e38046eac580f401b8e8e0ad875da75/classes.dex" />
+    </item>
+
+</items>
