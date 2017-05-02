@@ -11,13 +11,13 @@
         <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_79b66ce8fc480824c78b23d126b07b2afbcce367/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="6c869993776a01773a564b410c828d016e1ecb72">
-        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a7c86265e92ac0c8752ea5eca5f029b6c006383/classes.dex" />
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/internal_impl-25.0.1_b3bdbde4aff87a98d41580cdcfb7d07b7427b292.jar" />
     </item>
     <item
         is-multidex="true"
@@ -36,24 +36,6 @@
         revision="25.0.2"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
         <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_efba5937427d2966e9f3cd4e1316389b91ba4c9f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fbf099cb161ad0aad22c9f26876e599c47f22558/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="722b0b1a1562738d2ee1b79f2ef575c3acd021e9">
-        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1b35225c6c8b7527c34ceba0ef550b76b7518e5a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -83,6 +65,15 @@
         <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_f02bfb013dbbf87fd2fe0a735d5ec2aaf3c8b50b/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.0.1_2966abe28f75f0501ef58c1b95f8c3a48880a0a1.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
@@ -92,13 +83,13 @@
         <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8bfbcae34c694876ef8dd843b988e82dbbe4f9ac/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_cfe91c9828f7bc47efa22649490a7bb4afe50f50/classes.dex" />
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_51cf3838cc7811981914002547cd3df8bca2b11e.jar" />
     </item>
     <item
         is-multidex="true"
@@ -119,13 +110,13 @@
         <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_444be5db36f24c1b46c6eede4b0063087d806ff2/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_d382a4397cc9b4a6e8943ffcbb3db0da8f8cf166/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.1_995cf7198b326a02c8e668dacad4316f124cff0a.jar" />
     </item>
     <item
         is-multidex="true"
@@ -137,6 +128,15 @@
         <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_ee64e9a93b254141a286ead5af4a1cb4830540fd/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/internal_impl-25.0.1_8f411ee200f7bc1fc865a570ddcfd7460aeb23bf.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
@@ -144,6 +144,24 @@
         revision="25.0.2"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
         <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_63c21752b0b8444ae0aca66ba48fa918570539af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/internal_impl-25.0.1_4fbf79cb8bfa5cfc31e57004dae0e1c1cadf15cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/internal_impl-25.0.1_18801dcc336cfa47d5426f7f7be3f80e9b3b82e6.jar" />
     </item>
     <item
         is-multidex="true"
@@ -180,6 +198,150 @@
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_805f52c27e38046eac580f401b8e8e0ad875da75/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-support-v13-25.0.1_929c8b2d1984b6602ec6f4aea84aefe8bb195231.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c869993776a01773a564b410c828d016e1ecb72">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a7c86265e92ac0c8752ea5eca5f029b6c006383/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/internal_impl-25.0.1_8d8212cda1ead4803715e6ba7b098867cca9d1a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c8498692c07827ac3c37273d0c98f5073d70e81">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1b35225c6c8b7527c34ceba0ef550b76b7518e5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fbf099cb161ad0aad22c9f26876e599c47f22558/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.1_1750085097fc76bd6b50446a41bc1170ccab2886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_2836f69dcc196b006912756b3d43fe3b0efcab76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_78aba8e118a67cd75debe0ffdb06d8441877390c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/internal_impl-25.0.1_f272dcbe98fa2379c337582bc171eb5260aa2543.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_cfe91c9828f7bc47efa22649490a7bb4afe50f50/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.1_b5a79c5237877779157e938796001ce7c3578820.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/barkerc1/development/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_d382a4397cc9b4a6e8943ffcbb3db0da8f8cf166/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.1_0f88a9402d052ed073df683129473c4d437fa44e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_a4653dbcbb7eec1156d9838f2b5b6b18378f1dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/support-annotations-25.0.1_1a43af6f4da54550aef14d1db3e9270ace4eb670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/barkerc1/Desktop/720391993_BARKER/code/ColorHelper_v0_1_0/Application/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.1_ac9f3114565466575c281a5726cab2ae18777ca5.jar" />
     </item>
 
 </items>

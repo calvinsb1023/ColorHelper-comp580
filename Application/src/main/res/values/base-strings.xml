@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
- Copyright 2013 The Android Open Source Project
+ Copyright 2017 Calvin Barker
 
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
@@ -16,15 +16,19 @@
 -->
 
 <resources>
-    <string name="app_name">Camera2Basic</string>
+    <string name="app_name">Color Helper</string>
     <string name="intro_message">
-        <![CDATA[
-        
-            
-            This sample demonstrates the basic use of Camera2 API. Check the source code to see how
-            you can display camera preview and take pictures.
-            
-        
-        ]]>
+
+
+
+            Welcome to Color Helper! (v 0.1.0)
+        \n\nTo take a picture in a certain half of the screen, simply tap the \"Take … Picture\" button for the corresponding half.
+        \n\nTo identify a color in a picture, tap the color once.
+        \n\nTo clear the color tags in one half of the screen, tap the \"Clear\" button in that half.
+        \n\nTo remove the image entirely, tap the \"Retake … Picture\" button for the half you want to wipe.
+        \n\nYou can toggle the flash by pressing the flash button on the bottom right, but turning the flash will have a significantly negative impact on color detection.
+
+
+
     </string>
 </resources>
